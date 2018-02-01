@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/MDBTools">
+        <file>1.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>100.png</file>
+        <file>101.png</file>
+        <file>102.png</file>
+        <file>103.png</file>
+        <file>1000.png</file>
+        <file>1001.png</file>
+        <file>APPICON.ico</file>
+    </qresource>
+</RCC>
